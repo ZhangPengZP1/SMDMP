@@ -1,6 +1,5 @@
 /*
  * 程序名：tcppoll.cpp，此程序用于演示采用poll模型的使用方法。
- * 作者：吴从周
 */
 #include <stdio.h>
 #include <unistd.h>
