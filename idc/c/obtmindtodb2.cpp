@@ -1,7 +1,3 @@
-/*
- *  obtmindtodb.cpp，本程序用于把全国站点分钟观测数据入库到T_ZHOBTMIND表中，支持xml和csv两种文件格式。
- *  作者：吴从周。
-*/
 #include "_public.h"
 #include "_mysql.h"
 
